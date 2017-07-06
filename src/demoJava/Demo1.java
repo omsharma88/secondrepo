@@ -6,6 +6,7 @@ public class Demo1 {
 		// TODO Auto-generated method stub
 		System.out.println("hello");
 		//new line is added
+		//new happy commit
 	}
 
 }
